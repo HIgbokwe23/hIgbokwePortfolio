@@ -9,17 +9,15 @@ I have created this portfolio to showcase my projects to potential employers. Th
 
 Deployed on GitHub Pages
 
-[This is the link to my webpage](https://higbokwe23.github.io/HoriseonWebpage/)
+[This is the link to my webpage](https://higbokwe23.github.io/hIgbokwePortfolio/)
 
-[This is the link to my git hub repo](https://github.com/HIgbokwe23/HoriseonWebpage)
+[This is the link to my git hub repo](https://github.com/HIgbokwe23/hIgbokwePortfolio)
 
 ## Usage
 
 To be used by myself and future employers.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![This is a screenshot of my deployed app](./assets/images/Horiseonpage.png)
+![This is a screenshot of my deployed app](./images/screencapture-higbokwe23-github-io-hIgbokwePortfolio-2023-11-02-21_58_18.png)
 
 ## Credits
 
