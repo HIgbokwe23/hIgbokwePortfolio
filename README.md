@@ -30,7 +30,3 @@ MIT
 ---
 
 
-https://higbokwe23.github.io/HoriseonWebpage/
-
-
-https://github.com/HIgbokwe23/HoriseonWebpage
